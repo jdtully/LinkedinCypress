@@ -1,0 +1,26 @@
+{
+  "name": "linkedincypress",
+  "version": "1.0.0",
+  "description": "learning cypress with  the linkedin website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdtully/LinkedinCypress.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jdtully/LinkedinCypress/issues"
+  },
+  "homepage": "https://github.com/jdtully/LinkedinCypress#readme",
+  "dependencies": {
+    "@testing-library/cypress": "^7.0.0",
+    "npx": "^10.2.2"
+  },
+  "devDependencies": {
+    "cypress": "^5.2.0"
+  }
+}
